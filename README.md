@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: ...
 -->
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 **Technology Educator | FIRST Tech Challenge Coach | Hobbyist Maker | Developer | Life Long Learner**
 
