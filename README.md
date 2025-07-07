@@ -2,23 +2,21 @@
 
 <!--
 **TechEdDan2/TechEdDan2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- ⚡ Fun fact: ...
 -->
 
 
 **Technology Educator | FIRST Tech Challenge Coach | Hobbyist Maker | Developer | Life Long Learner**
 
 - 🤖 I’m currently working on mentoring students in this year's FIRST Tech Challenge competition and teaching high school level Technology Education courses
-- 🌱 I've completed a couple comp sci courses in college, taken some one-offs here and there, but am mostly self-taught, so I’m currently completing a Software Engineering Bootcamp 
+- 🌱 I've completed a couple comp sci courses in college, taken some one-offs here and there, but am mostly self-taught. To continue my skills development, I’m currently completing a Software Engineering Bootcamp.  
 - 🤔 I’m looking for help with growing my understanding of Full Stack Development and seeing where it takes me personally and professionally
 - 😄 Pronouns: he/him/his
 
 ---
 
 ### 🧰 Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,py,postgres,github,idea,vscode)](https://skillicons.dev)
+<!--
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -29,6 +27,7 @@ Here are some ideas to get you started:
 <img align="left" alt="andriodstudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
 <img align="left" alt="objectivec" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/objectivec/objectivec-plain.svg" />          
 <img align="left" alt="xcode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" />
+-->
 <br />
 
 
