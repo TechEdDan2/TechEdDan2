@@ -16,13 +16,12 @@
 
 ### 🧰 Languages and Tools
 <p align="center">
-  <a href="#">
+  <a href="https://github.com/LelouchFR/skill-icons">
     <img
       src="https://go-skill-icons.vercel.app/api/icons?i=js,html,css,java,python,postgres,sqlalchemy,git,github,androidstudio,idea,vscode,xcode"
     />
   </a>
 </p>
-
 
 <!--
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,py,postgres,github,idea,vscode,andriodstudio)](https://skillicons.dev)
