@@ -19,6 +19,7 @@
     <img
       src="https://go-skill-icons.vercel.app/api/icons?i=js,html,css,java,python,postgres,sqlalchemy,git,github,androidstudio,idea,vscode,xcode"
     />
+    <img align="left" alt="objectivec" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/objectivec/objectivec-plain.svg" />  
 </p>
 
 <!--
