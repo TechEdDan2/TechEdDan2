@@ -9,8 +9,8 @@
 
 - 🤖 Professionally, I am currently teaching high school level technology education and computer science courses, as well as mentoring robotics teams that compete in the yearly FIRST Tech Challenge competition.
 - 🌱 My curiosity in technology started in middle school when my family got our first Windows desktop computer, but I only dabbled in exploring this interest here and there. I completed a couple computer science courses in primary school and college, but didn't major in comp sci. After I completed my master's degree in Library and Information Science, I started to pursue learning more coding languages on my own, like Java, JavaScript, Objective-C, and simpler block-based languages as well. To level up my skills, I’m currently completing a Software Engineering Bootcamp.  
-- 🤔 Here on GitHub I’m looking to gain more knowledge of Full Stack Development and seeing where it takes me personally and professionally
-- 😄 Pronouns: he/him/his
+- 💻 Here on GitHub I’m looking to gain more knowledge of Full Stack Development and seeing where it takes me personally and professionally
+- 🙋 Pronouns: he/him/his
 
 ---
 
@@ -18,7 +18,7 @@
 <p align="center">
     <a href="#">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=js,html,css,java,python,flask,nodejs,expressjs,react,vite,postgres,sqlalchemy"
+      src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,java,python,flask,nodejs,expressjs,react,vite,postgres,sqlalchemy"
     />
    </a>
 </p>
